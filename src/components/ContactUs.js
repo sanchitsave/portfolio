@@ -9,7 +9,7 @@ return (
 <div className='row section-head'>
 <div className='ten columns'>
 <p className='lead'>
-Feel free to contact me on +61 444 597 498 or sanchitsave@gmail.com. thanks
+Feel free to contact me on +61 444 597 498 or sanchitsave@gmail.com. 
 </p>
 </div>
 </div>
