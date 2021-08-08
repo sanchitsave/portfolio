@@ -45,11 +45,11 @@ export default function Portfolio({ authCredentials }) {
                     {project1 && 
                     <div>
                     <div>Here are some screenshots of the pages I worked on</div>
-                    <img src='images/portfolio/Hutch1.jpg' className='item-img'/>
+                    <img src='images/portfolio/Hutch1.JPG' className='item-img'/>
                     <div>When you click on the More button:</div>
-                    <img src='images/portfolio/Hutch2.jpg' className='item-img'/>
+                    <img src='images/portfolio/Hutch2.JPG' className='item-img'/>
                     <div>Rendering Graph Components</div>
-                    <img src='images/portfolio/Hutch3.jpg' className='item-img'/>
+                    <img src='images/portfolio/Hutch3.JPG' className='item-img'/>
                     </div>
                     }
                     <br></br><br></br>
@@ -57,9 +57,9 @@ export default function Portfolio({ authCredentials }) {
                     {project2 && 
                     <div>
                     <div>The Log In Page</div>
-                    <img src='images/portfolio/Resort0.jpg' className='item-img'/>
+                    <img src='images/portfolio/Resort0.JPG' className='item-img'/>
                     <div>After Login:</div>
-                    <img src='images/portfolio/Resort1.jpg' className='item-img'/>
+                    <img src='images/portfolio/resort1.JPG' className='item-img'/>
                     </div>
                     }
                      <br></br><br></br>
