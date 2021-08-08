@@ -2,10 +2,10 @@
 let resumeData = {
     imagebaseurl:'https://ivy555.github.io/',
     name: 'Sanchit',
-    role: 'Full Satck Developer',
+    role: 'Full Satck Developer currently working as a Junior React Developer for Hutchison Software',
     linkedinId:'Sanchit Save',
     skypeid: 'Your skypeid',
-    roleDescription: 'I like to learn and create applications in various parts of software development and like to learn about new technologies, write technical articles or simply play games in my free time.',
+    roleDescription: 'I like to learn and create applications in various parts of Software Development and like to learn about new technologies, read technical articles or simply play games in my free time.',
     socialLinks:[
     {
     name:'linkedin',
@@ -16,11 +16,6 @@ let resumeData = {
     name:'github',
     url:'https://github.com/sanchitsave/',
     className:'fa fa-github'
-    },
-    {
-    name:'skype',
-    url:'',
-    className:'fa fa-twitter'
     }
     ],
     aboutme:'I have recently completed my Masters of IT from Swinburne University of Technology. After that, I did a React.js and Node.js internship at rESORTER. Currently, I am working as a Software Dev for Hutchison Software',
@@ -32,14 +27,14 @@ let resumeData = {
     specialization:'Software Development',
     MonthOfPassing:'Nov',
     YearOfPassing:'2020',
-    Achievements:'Some Achievements'
+    Achievements:''
     },
     {
     UniversityName:'Mumbai University',
     specialization:'Computer Science',
     MonthOfPassing:'July',
     YearOfPassing:'2018',
-    Achievements:'Some Achievements'
+    Achievements:''
     }
     ],
     work:[
@@ -48,17 +43,17 @@ let resumeData = {
     specialization:'Junior React Developer',
     MonthOfLeaving:'May',
     YearOfLeaving:'2021',
-    Achievements:'Some Achievements'
+    Achievements:''
     },
     {
     CompanyName:'rESORTER',
     specialization:'Node.js & React.js Developer',
     MonthOfLeaving:'July',
     YearOfLeaving:'2020',
-    Achievements:'Some Achievements'
+    Achievements:''
     }
     ],
-    skillsDescription:'Your skills here',
+    skillsDescription:'',
     skills:[
     {
     skillname:'React JS'

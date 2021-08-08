@@ -1,5 +1,6 @@
 /* eslint-disable */
 import React, { Component } from 'react'
+import Sanchit from './Sanchit.pdf'
 export default class Resume extends Component {
 render() {
 let resumeData = this.props.resumeData;
@@ -53,30 +54,17 @@ return(
 }
 </div>
 </div>
-<div className='row skill'>
+
+<div className='row work'>
 <div className='three columns header-col'>
-<h1><span>Skills</span></h1>
+<h1><span>RESUME</span></h1>
 </div>
 <div className='nine columns main-col'>
-<p>
-{resumeData.skillsDescription}
-</p>
-<div className='bars'>
-<ul className='skills'>
-{
-resumeData.skills && resumeData.skills.map((item) => {
-return(
-<li>
-<span className={`bar-expand ${item.skillname.toLowerCase()}`}>
-</span><em>{item.skillname}</em>
-</li>
-)
-})
-}
-</ul>
+<a href={Sanchit} download="SanchitCV.pdf"> Click here to Download my Resume </a>
+
 </div>
 </div>
-</div>
+
 </section>
 );
 }
