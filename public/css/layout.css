@@ -190,6 +190,7 @@ ul#nav li.current a { color: #F06000; }
    background: #2B2B2B;
    padding-top: 96px;
    padding-bottom: 66px;
+   padding-right: 14%;
    overflow: hidden;
 }
 
@@ -792,7 +793,7 @@ call-to-action .button {
    background: #191919;
    padding-top: 96px;
    padding-bottom: 102px;
-   color: #636363;
+   color: #d7ebeb;
 }
 #contact .section-head { margin-bottom: 42px; }
 
@@ -825,7 +826,7 @@ call-to-action .button {
 }
 #contact p.lead {
    font: 18px/36px 'opensans-light', sans-serif;
-   padding-right: 3%;
+   padding-left: 15%;
 }
 #contact .header-col { padding-top: 6px; }
 
