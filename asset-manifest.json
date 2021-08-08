@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.4e5d0c88.chunk.css",
+    "main.js": "/portfolio/static/js/main.e7319d80.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.e7319d80.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.359227dd.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.359227dd.js.map",
+    "static/js/2.5448cc68.chunk.js": "/portfolio/static/js/2.5448cc68.chunk.js",
+    "static/js/2.5448cc68.chunk.js.map": "/portfolio/static/js/2.5448cc68.chunk.js.map",
+    "static/js/3.6ac9f781.chunk.js": "/portfolio/static/js/3.6ac9f781.chunk.js",
+    "static/js/3.6ac9f781.chunk.js.map": "/portfolio/static/js/3.6ac9f781.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.4e5d0c88.chunk.css.map": "/portfolio/static/css/main.4e5d0c88.chunk.css.map",
+    "static/js/2.5448cc68.chunk.js.LICENSE.txt": "/portfolio/static/js/2.5448cc68.chunk.js.LICENSE.txt",
+    "static/media/Sanchit.ec11c59d.pdf": "/portfolio/static/media/Sanchit.ec11c59d.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.359227dd.js",
+    "static/js/2.5448cc68.chunk.js",
+    "static/css/main.4e5d0c88.chunk.css",
+    "static/js/main.e7319d80.chunk.js"
+  ]
+}
