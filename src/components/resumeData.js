@@ -67,8 +67,8 @@ let resumeData = {
     ],
     portfolio:[
     {
-    name:'project1',
-    description:'mobileapp',
+    name:'Webpages for Hutchison Software',
+    description:'',
     imgurl:'images/portfolio/phone.jpg'
     },
     {
