@@ -15,6 +15,7 @@ function App() {
           </li>
         ))}
       </ul>
+      <button>Submit</button>
     </div>
   );
 }
