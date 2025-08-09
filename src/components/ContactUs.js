@@ -1,18 +1,1 @@
-```javascript
-// src/components/ContactUs.js
-
-import React from 'react';
-
-const ContactUs = () => {
-  return (
-    <div>
-      <h2>Contact Us</h2>
-      <p>
-        You can reach us at: <strong>1234567</strong>
-      </p>
-    </div>
-  );
-};
-
-export default ContactUs;
-```
+The name has been updated to binchit in the README.md file. If you want this name changed in other files or references within your project, please specify which files or locations need to be updated.
