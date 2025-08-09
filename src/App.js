@@ -1,6 +1,3 @@
-Here is your updated app.js with a new button added. For demonstration, I've added the button inside the main <div className='App'>, below the imported components. You can edit its position or functionality as needed.
-
-```javascript
 /* eslint-disable */
 import React, { Component } from 'react'
 import './App.css';
@@ -12,6 +9,7 @@ import Testimonials from './components/Testimonials'
 import ContactUs from './components/ContactUs'
 import Footer from './components/Footer'
 import resumeData from './components/resumeData'
+import SubmitButton from './SubmitButton';
 
 class App extends Component {
   render() {
@@ -25,18 +23,12 @@ class App extends Component {
         <ContactUs resumeData={resumeData}/>
         <Footer resumeData={resumeData}/>
 
-        {/* New Button Added */}
-        <button
-          onClick={() => alert('New button clicked!')}
-          style={{marginTop: '20px'}}
-        >
-          New Button
-        </button>
+        {/* New Submit Button Added */}
+        <div style={{ marginTop: '20px' }}>
+          <SubmitButton />
+        </div>
       </div>
     );
   }
 }
 export default App;
-```
-
-Let me know if you want the button to do something specific or be placed elsewhere!
