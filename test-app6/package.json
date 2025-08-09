@@ -1,0 +1,13 @@
+{
+  "name": "test-app6",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "start": "npx serve -s public -l 3000 & react-scripts start || true",
+    "build": "react-scripts build"
+  }
+}
